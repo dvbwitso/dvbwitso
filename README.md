@@ -8,7 +8,7 @@ I’m a **code-wielding Zambian trailblazer**—part software engineer, part pro
 - **Squad Captain**: Jamming with teams to ship stuff users adore and businesses bank on.  
 
 ## My Tech Totems
-- **Code Charms**: Python | JavaScript | Go | Rust | Flask  
+- **Code Charms**: Python | JavaScript | C++ | C# | Java
 - **Framework Fetishes**: React | Node.js | Django | Next.js | FastAPI  
 - **Gizmo Grove**: Docker | Kubernetes | AWS | GraphQL | PERN | MERN  
 - **Code Credo**: Clean, DRY, and “ship it like it’s hot.”
